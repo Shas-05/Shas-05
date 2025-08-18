@@ -26,8 +26,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shas-05&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shas-05&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shas-05&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shas-05&layout=compact&theme=radical)  
 
 ---
 
