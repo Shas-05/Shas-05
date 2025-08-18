@@ -31,7 +31,7 @@
 ---
 
 ## 📫 Connect with Me  
-- Email: **your-email@gmail.com**  
+- Email: **shashank.cms.2005@gmail.com**  
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/shashank-gupta-366648290)  
 
 ---
