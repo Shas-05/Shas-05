@@ -18,15 +18,13 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 B.Tech IT student building **high-performance systems** and **full-stack apps**.  
-- 🎮 Currently working on **real-time PC-to-Android game streaming software**.  
-- ⚡ Love solving **complex problems** using optimized algorithms & low-level system knowledge.  
-- 🌐 Exploring **WebRTC, QUIC**.  
+- 🎓 B.Tech IT student building **high-performance systems** and **full-stack apps**.   
+- ⚡ Love solving **complex problems** using optimized algorithms & low-level system knowledge.  .
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shas-05&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shas-05&layout=compact&theme=radical)  
+![GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Shas-05) ![Top Langs]((https://git-hub-stats-card-generator.vercel.app/api/svg?username=Shas-05&type=languages))  
 
 ---
 
