@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Shas-05) ![Top Langs]((https://git-hub-stats-card-generator.vercel.app/api/svg?username=Shas-05&type=languages))  
+![GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Shas-05) ![Top Langs](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Shas-05&type=languages)  
 
 ---
 
