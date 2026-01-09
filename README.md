@@ -3,8 +3,10 @@
 ### A passionate Competitive Programmer & Developer 🚀
 
 ---
+
 🌱 **Currently learning:** ML Enthusiast & Web Development  
 📫 **How to reach me:** [shashank.cms.2005@gmail.com](mailto:shashank.cms.2005@gmail.com)
+
 ---
 
 ## 🌐 Connect with me:
@@ -12,7 +14,9 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
+  
 ---
+  
 ## 🛠️ Languages and Tools:
 <p align="left">
   <!-- Languages -->
