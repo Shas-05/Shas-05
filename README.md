@@ -34,5 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
+
 ---
-✨ *Always learning, always building.*
+
+✨ **Small commits lead to big innovations**
