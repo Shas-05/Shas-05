@@ -1,11 +1,11 @@
-# 👋 Hi, I'm MAHIR BABBAR
+# 👋 Hi, I'm SHASHANK GUPTA
 
 ### A passionate Competitive Programmer & Developer 🚀
 
 ---
 
-🌱 **Currently learning:** App Development & Web Development  
-📫 **How to reach me:** [mahirbabbar1611@gmail.com](mailto:mahirbabbar1611@gmail.com)
+🌱 **Currently learning:** ML Enthusiast & Web Development  
+📫 **How to reach me:** [shashank.cms.2005@gmail.com](mailto:shashank.cms.2005@gmail.com)
 
 ---
 
