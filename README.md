@@ -4,7 +4,7 @@
 
 ---
 
-🌱 **Currently learning:** ML Enthusiast & Web Development  
+🌱 **Currently learning:** ML Enthusiast & Building Scalable Backend Architecture  
 📫 **How to reach me:** [shashank.cms.2005@gmail.com](mailto:shashank.cms.2005@gmail.com)
 
 ---
