@@ -16,9 +16,8 @@ Passionate about Data Structures & Algorithms, Competitive Programming, and buil
 
 ## 🚀 About Me
 
-- 🌱 Currently exploring **System Design, Backend Development, and AI Applications**
-- 💻 Solved hundreds of DSA problems across various coding platforms
-- 🏆 Passionate about Competitive Programming and Software Development
+- 🌱 Currently exploring **Backend Development and AI Applications**
+- 💻 Building from scratch...
 - 📫 Reach me at: **shashank.cms.2005@gmail.com**
 
 ---
