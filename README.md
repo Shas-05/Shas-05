@@ -102,12 +102,10 @@ Passionate about Data Structures & Algorithms, Competitive Programming, and buil
 
 ---
 
-## ⚡ Fun Fact
+## 🐍 Contribution Snake
 
-```cpp
-while(!success){
-    tryAgain();
-}
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shas-05/shas-05/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 </div>
